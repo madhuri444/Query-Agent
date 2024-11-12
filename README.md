@@ -35,4 +35,7 @@ Generates the command kubectl get pods -n default.
 Executes the command on the local system.
 Returns the output with a refined response: "There are 5 pods in the default namespace."
 
+## Workflow
+![image](https://github.com/user-attachments/assets/3602c970-567d-4a93-970c-bae16b19de28)
+
 
