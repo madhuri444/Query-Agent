@@ -5,6 +5,7 @@
 
 This repository contains a Kubernetes AI agent designed to interpret user queries and retrieve relevant information about applications deployed in a Kubernetes cluster. The agent processes natural language inputs from users, interprets them into Kubernetes commands, executes those commands, and returns refined responses.
 
+## I used Groq AI inference for model fetching. please store groq api key in .env file
 ## Approach Overview
 This agent uses a Flask-based API to receive queries from users, which are then processed by an LLM (Large Language Model) capable of understanding natural language and generating Kubernetes commands. The commands are executed on the local operating system, and the results are refined and returned to the user in a structured JSON format.
 
