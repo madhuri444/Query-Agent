@@ -43,4 +43,4 @@ Returns the output with a refined response: "There are 5 pods in the default nam
 ![image](https://github.com/user-attachments/assets/3602c970-567d-4a93-970c-bae16b19de28)
 
 
->>>>>>> 810d1362d3618548a304f0b32cd29804f02b81f6
+
