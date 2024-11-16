@@ -1,0 +1,8 @@
+requests
+flask
+pydantic
+groq
+python-dotenv
+autogen
+flaml 
+pyyaml
