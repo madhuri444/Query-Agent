@@ -1,8 +1,8 @@
 # Query-Agent
-<<<<<<< HEAD
+
 # Create the virtual env using command 
 ## "conda create -p venv python==3.10 -y" and then activate the environment
-=======
+
 This repository contains a Kubernetes AI agent designed to interpret user queries and retrieve relevant information about applications deployed in a Kubernetes cluster. The agent processes natural language inputs from users, interprets them into Kubernetes commands, executes those commands, and returns refined responses.
 
 ## Approach Overview
